@@ -21,8 +21,8 @@ Given 1 (one) excel file contains 6 tables:
 * pelanggan: customer table
 * barang: product table from penjualan
 * penjualan_ds : detail sales table
-* pelanggan_ds : customer table from penjualan_ds (same with "pelanggan")
-* barang_ds : product table from penjualan_ds (same with "barang")
+* pelanggan_ds : customer table from penjualan_ds (similar with "pelanggan")
+* barang_ds : product table from penjualan_ds (similar with "barang")
 
 # **Data Preparation**
 I designed datamart tables using SQL (MySQL Workbench 8.0 CE) from given dataset, contains:
