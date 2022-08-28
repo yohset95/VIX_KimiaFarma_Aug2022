@@ -30,7 +30,7 @@ I designed datamart tables using SQL (MySQL Workbench 8.0 CE) from given dataset
 ![](https://drive.google.com/uc?export=view&id=1QnbvmPtuAbYAGYK0yRX6u8u3BH_mUsA1) </br>
 ![](https://drive.google.com/uc?export=view&id=1VllbixfT4za0ynIHG1VTfMQ6NptA0vJ7) </br>
 ![](https://drive.google.com/uc?export=view&id=1t_euQLdO-dl6GIWXdvUZMp1MxRM873Bp) </br>
-* table_base_2: "penjualan_ds", "pelanggan_ds", and "barang_ds"
+* table_base_2: joining "penjualan_ds", "pelanggan_ds", and "barang_ds"
 ![](https://drive.google.com/uc?export=view&id=1e58_Iolbtc4zGnztxR7YFhVZ2MYsEtq4) </br>
 ![](https://drive.google.com/uc?export=view&id=1HuCN2ayD8VypU836D0QqOBtettwR-ZDz) </br>
 ![](https://drive.google.com/uc?export=view&id=1BC9OqG82AtoZZOVSxuV_6pMeWHTOjG-y) </br>
